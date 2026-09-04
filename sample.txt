@@ -1,0 +1,5 @@
+Welcome to the C Line Editor!
+This is a demonstration text document.
+Line editors operate line-by-line rather than with a 2D GUI cursor.
+You can insert, delete, search, and replace text with ease.
+Enjoy using the editor!

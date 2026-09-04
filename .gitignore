@@ -1,0 +1,15 @@
+# Compiled binaries
+*.exe
+*.o
+*.obj
+editor
+
+# Editor temp files
+*.swp
+*.bak
+*~
+
+# VS Code / OS files
+.vscode/
+.DS_Store
+Thumbs.db

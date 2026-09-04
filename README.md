@@ -8,9 +8,9 @@ A fast, lightweight, terminal-based text line editor written in pure C (C99 stan
 - **Course:** Portfolio Building - Studio Course (3rd Semester)
 - **Project:** Build a Simple Line Editor in C
 - **Team Members:**
-  - `Member 1:` [Enter Name & Student ID]
-  - `Member 2:` [Enter Name & Student ID]
-  - `Member 3:` [Enter Name & Student ID]
+  - `Member 1:` Varun Kumar, R25EJ172
+  - `Member 2:` Tarhat Fatima, R25EJ160
+  
 
 ---
 

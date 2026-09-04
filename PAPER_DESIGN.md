@@ -12,8 +12,8 @@ This document provides the **exact text, diagrams, and code** you and your teamm
 --------------------------------------------------------------------------------
 PROJECT: Command-Line Text Line Editor in C
 COURSE:  Portfolio Building - Studio Course (3rd Semester)
-TEAM:    [Write Your Names / Student IDs]
-DATE:    [Exam Date]
+TEAM:    1. Varun Kumar, R25EJ172
+         2. Tarhat Fatima, R25EJ160
 --------------------------------------------------------------------------------
 ```
 
